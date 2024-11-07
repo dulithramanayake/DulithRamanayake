@@ -4,20 +4,17 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Enthusiastic+Software+Engineer;Tech+Explorer;Open-Source+Enthusiast" alt="Headline" /></div>  
 
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-<br> 
 
-**About Me**
 
- A graduate Associate Software Engineer with a BEng (Hons) in Software
- Engineering, awarded Second Upper Class Honours from London Metropolitan
- University, UK. Possesses a strong foundation in software design, data
- communication, software development, and digital signaling. A highly
- motivated and productive team member with excellent communication,
- interpersonal, organizational, time management, analytical, and solution
-oriented skills.
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
+
+- 🌱 I’m currently learning ASP.NET Core
+
+- 🎓 I’m a graduate of ESOFT Metro Campus
+
+- 💬 Ask me about Java and C#
 
 - 📫 How to reach me **dulithramanayake@gmail.com**
 
@@ -27,6 +24,27 @@ oriented skills.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+### Here's my github stats:
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dulithramanayake&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dulithramanayake&theme=dark&hide_border=true" />
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulithramanayake&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
+
+
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
