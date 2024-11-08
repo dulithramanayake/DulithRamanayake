@@ -17,7 +17,7 @@
 
 - 🎓 I’m a graduate of ESOFT Metro Campus
 
-- 💬 Ask me about Java and C#
+- 💬 Ask me about Java, C# and SQL
 
 - 📫 How to reach me **dulithramanayake@gmail.com**
 
